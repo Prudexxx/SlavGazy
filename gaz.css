@@ -30,8 +30,6 @@ p{
     line-height: 150%;
     margin:  7% 7%;
     padding: 2%;
-   
-}
 }
 
 .shapkaGaz {
@@ -109,8 +107,8 @@ margin: 7% 7%;
     margin-bottom: 2%;
   }
 
-  
-  * {box-sizing: border-box;}
+/*   
+  * {box-sizing: border-box;} */
    
   /* Кнопка, используемая для открытия контактной формы-фиксируется в нижней части страницы */
   .open-button {
